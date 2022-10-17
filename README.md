@@ -8,7 +8,7 @@
 
 - 🔭 You can visit my website [CLICK HERE](www.affrudin.com)
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **Dart - Flutter**
 
 - 👯 I’m looking to collaborate on **any website projects**
 
